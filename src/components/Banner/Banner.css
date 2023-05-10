@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    padding: 0 100px;
+
+}
+ header{
+    width: 100%;
+    height: 250px;
+    background: url(../../assets/images/banner-background-2.jpg);
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .header-text{
+    color: var(--whiteColor);
+    background: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    text-align: center;
+ }

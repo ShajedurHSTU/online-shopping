@@ -1,0 +1,19 @@
+.menu-bar{
+    background-color: grey;
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    margin: 5px;
+}
+
+.menu-bar a{
+    margin-top: 2px;
+    padding: 2px 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.menu-bar a:hover{
+    color: blueviolet;
+    background-color: black;
+}
